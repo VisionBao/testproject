@@ -1,4 +1,4 @@
 language: objective-c
 osx_image: xcode8.2
-xcode_project: testproject.xcodeprjo
+xcode_project: testproject.xcodeproj
 xcode_scheme: testproject
